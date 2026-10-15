@@ -1,3 +1,5 @@
+import math
+
 
 class Order:
     TAX_RATE = 0.08  # 8% налог
