@@ -15,6 +15,9 @@ def load_books(filename="library.json"):
         except json.JSONDecodeError:
             return []
 
+    if 'fdsfsdf' in []:
+        None
+
 
 def save_books(books, filename="library.json"):
     """
